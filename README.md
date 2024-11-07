@@ -2,15 +2,15 @@ PostZone is a platform built with a backend stack featuring Node.js, Express.js,
 
 Features:
 
-    User Authentication: Secure signup and login with password encryption.
-    Post Creation: Users can write posts and share their thoughts.
-    Edit and Delete: Users have the option to edit or delete their posts at any time.
-    Like and Unlike: Interactive like/unlike functionality for each post.
-    Logout: Users can log out to end their session securely.
+   -> User Authentication: Secure signup and login with password encryption.
+   -> Post Creation: Users can write posts and share their thoughts.
+   -> Edit and Delete: Users have the option to edit or delete their posts at any time.
+   -> Like and Unlike: Interactive like/unlike functionality for each post.
+   -> Logout: Users can log out to end their session securely.
 
 Tech Stack:
 
-    Backend: Node.js, Express.js
-    Frontend: EJS (Embedded JavaScript templates)
-    Database: MongoDB
-    Authentication: JWT(JsonWebToken) for secure user sessions.
+   -> Backend: Node.js, Express.js
+   -> Frontend: EJS (Embedded JavaScript templates)
+   -> Database: MongoDB
+   -> Authentication: JWT(JsonWebToken) for secure user sessions.
